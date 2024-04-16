@@ -3,6 +3,18 @@
 
 }
 
+/* Chrome, Safari, Edge, Opera */
+.trogers::-webkit-outer-spin-button,
+.trogers::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+.trogers {
+  -moz-appearance: textfield;
+}
+
 .bg {
 
 
